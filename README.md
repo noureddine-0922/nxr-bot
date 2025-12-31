@@ -1,6 +1,6 @@
  🎫 nxr Ticket System
 
-![Banner](https://imgur.com/a/6LDT1Pl)
+![Banner]([https://imgur.com/a/6LDT1Pl](https://ibb.co/fc7rZBc))
 
 Professional multi-language ticket support system for Discord with advanced features never seen before on top.gg!
 
